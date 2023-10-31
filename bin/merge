@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 $HOME/bin/merge_comp_freqs.py "$@"
